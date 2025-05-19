@@ -1,0 +1,11 @@
+Библиотеки
+pip install requests
+pip install python-telegram-bot --upgrade
+pip install easyocr
+pip install torch torchvision torchaudio
+-------
+для запуска freeQwenApi 
+1. можно запустить через start.bat в самой папке freeQwenApi
+2. прописать в терминале - 
+cd freeqwenapi
+npm start
